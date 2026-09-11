@@ -16,7 +16,7 @@ Dataset Description
 
 The dataset is AdventureWorks Sales data. It contains sales, product, customer, reseller, date and sales territory information.
 
-Main tables used:
+Main Tables
 
 Sales Order data
 
@@ -56,11 +56,11 @@ Missing ShipDateKey values were kept as unavailable instead of making fake dates
 
 Date fields were checked and standardized.
 
-EDA
+Exploratory Data Analysis (EDA)
 
 The analysis was done for sales amount, product cost, profit, order quantity and unit price.
 
-Some main findings:
+Main EDA Findings
 
 FY2020 had the highest sales and profit.
 
@@ -72,9 +72,9 @@ Sales and total product cost have a strong positive relationship.
 
 Some regions have high sales but comparatively lower margins.
 
-Outliers were checked using IQR method.
+Outliers were checked using the IQR method.
 
-Visualizations
+Data Visualizations
 
 The project includes:
 
@@ -96,17 +96,17 @@ Total Sales
 
 Total Profit
 
-Sales records
+Sales Records
 
 Average Sale
 
-Sales and profit trend
+Sales and Profit Trend
 
-Sales by category
+Sales by Category
 
-Sales by region
+Sales by Region
 
-Profit by category
+Profit by Category
 
 Key Insights
 
